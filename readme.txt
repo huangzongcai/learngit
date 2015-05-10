@@ -7,4 +7,5 @@ creating a new branch
 i am btest 가가가가
 
 Creating a new branch is quick AND simple.
+git new test
 
